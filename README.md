@@ -66,43 +66,43 @@ Dataset used in this project is `train.csv` from the [New York Taxi Fare Predict
 
 #### Heatmap
 
-![Heatmap](https://github.com/sriganeshlokesh/new_york_taxi_fare_prediction/blob/master/img/Heatmap.png)
+![Heatmap](https://github.com/Warlock-bit/New-York-Taxi-Fare-Prediction/blob/main/img/Heatmap.png)
 
 The heatmap depicts the features which are highly correlated. From the above heatmap we can observe that pickup_latitude, pickup_longitude, dropoff_latitude, dropoff_longitude are highly correlated.
 
 #### Pickup Distribution
 
-![Pickup](https://github.com/sriganeshlokesh/new_york_taxi_fare_prediction/blob/master/img/Pickup.png)
+![Pickup](https://github.com/Warlock-bit/New-York-Taxi-Fare-Prediction/blob/main/img/Pickup.png)
 
 Pickup distribution gives us an idea of the highly used pickup service location. From the coordinates, we see that Manhattan has the highest number of pickups.
 
 #### Dropoff Distribution 
 
-![Dropoff](https://github.com/sriganeshlokesh/new_york_taxi_fare_prediction/blob/master/img/Dropoff.png)
+![Dropoff](https://github.com/Warlock-bit/New-York-Taxi-Fare-Prediction/blob/main/img/Dropoff.png)
 
 Dropoff distribution gives us an idea of the frequent dropoff location. From the coordinates, we see that Manhattan has the highest number of dropoffs.
 
 #### Fare Amount Distribution for JFK Airport
 
-![Fare JFK](https://github.com/sriganeshlokesh/new_york_taxi_fare_prediction/blob/master/img/Distribution%20of%20Fare%20Amount.png)
+![Fare JFK](https://github.com/Warlock-bit/New-York-Taxi-Fare-Prediction/blob/main/img/Distribution%20of%20Fare%20Amount.png)
 
 The plot describes the fare amount to and from the airport as compared to other pickup and drop off locations. We can infer that the using the taxi service from the airport will cost more as compared to other pickup locations.
 
 #### Borough Pickup Distribution
 
-![Borough Pickup](https://github.com/sriganeshlokesh/new_york_taxi_fare_prediction/blob/master/img/Pickup%20Distribution.png)
+![Borough Pickup](https://github.com/Warlock-bit/New-York-Taxi-Fare-Prediction/blob/main/img/Pickup%20Distribution.png)
 
 Manhattan has the highest pickup density as compared to the other 4 boroughs. This is followed by Queens.
 
 #### Borough Dropoff Distribution
 
-![Borough Dropoff](https://github.com/sriganeshlokesh/new_york_taxi_fare_prediction/blob/master/img/Dropoff%20Distribution.png)
+![Borough Dropoff](https://github.com/Warlock-bit/New-York-Taxi-Fare-Prediction/blob/main/img/Dropoff%20Distribution.png)
 
 This plot is similar to the pickup distribution.Manhattan has the highest dropoff density as compared to the other 4 boroughs. This is followed by Queens.
 
 #### Borough Fare Distribution
 
-![Borough Fare](https://github.com/sriganeshlokesh/new_york_taxi_fare_prediction/blob/master/img/Borough%20Distribution.png)
+![Borough Fare](https://github.com/Warlock-bit/New-York-Taxi-Fare-Prediction/blob/main/img/Borough%20Distribution.png)
 
 Here, we picturize the fare amount for the 5 boroughs. No suprise here, Manhattan has a high fare amount as compared to the other boroughs followed by Queens.
 
